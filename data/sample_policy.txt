@@ -1,0 +1,17 @@
+[DOC_ID: policy_work_hours]
+Giờ làm việc tiêu chuẩn của công ty là từ 8:00 sáng đến 5:30 chiều, từ thứ Hai đến thứ Sáu. Thời gian nghỉ trưa được quy định từ 12:00 trưa đến 1:30 chiều. Công ty cho phép nhân viên đi làm muộn tối đa 15 phút mà không bị tính là đi muộn nếu có lý do chính đáng hoặc thông báo trước cho quản lý trực tiếp. Mọi trường hợp làm thêm giờ (OT) cần được quản lý trực tiếp phê duyệt trước ít nhất 24 giờ.
+
+[DOC_ID: policy_remote_work]
+Nhân viên được phép làm việc từ xa (Work From Home - WFH) tối đa 2 ngày mỗi tuần, với điều kiện hiệu suất công việc đạt từ mức 'Đạt yêu cầu' trở lên trong kỳ đánh giá gần nhất. Việc đăng ký làm việc từ xa phải được thực hiện qua hệ thống HR Portal trước ít nhất 1 ngày làm việc và được quản lý trực tiếp phê duyệt. Nhân viên làm việc từ xa vẫn phải đảm bảo online trực tuyến trên các kênh liên lạc nội bộ từ 9:00 sáng đến 5:00 chiều.
+
+[DOC_ID: policy_it_security]
+Tất cả nhân viên bắt buộc phải đổi mật khẩu tài khoản hệ thống (Active Directory) định kỳ mỗi 90 ngày. Mật khẩu phải có độ dài tối thiểu 12 ký tự, bao gồm chữ hoa, chữ thường, số và ít nhất một ký tự đặc biệt. Tuyệt đối không được chia sẻ mật khẩu hoặc để mật khẩu ở nơi dễ nhìn thấy. Khi phát hiện thiết bị làm việc bị thất lạc hoặc nghi ngờ có sự cố bảo mật, nhân viên phải báo ngay cho bộ phận IT Security qua email security@company.com trong vòng 2 giờ.
+
+[DOC_ID: policy_annual_leave]
+Nhân viên chính thức được hưởng 12 ngày phép năm có hưởng lương đối với mỗi năm làm việc đầy đủ. Số ngày phép năm chưa sử dụng hết trong năm sẽ được bảo lưu sang năm tiếp theo tối đa là 5 ngày, và số ngày phép bảo lưu này phải được sử dụng trước ngày 31 tháng 3 của năm sau. Đơn xin nghỉ phép từ 3 ngày trở lên phải được gửi trước ít nhất 5 ngày làm việc.
+
+[DOC_ID: policy_health_benefits]
+Công ty cung cấp gói bảo hiểm sức khỏe đặc biệt dành cho nhân viên chính thức đã ký hợp đồng lao động từ 1 năm trở lên. Gói bảo hiểm bao gồm chi phí khám chữa bệnh nội trú lên đến 50 triệu VNĐ/năm và ngoại trú lên đến 10 triệu VNĐ/năm. Nhân viên có thể đăng ký mua thêm gói bảo hiểm này cho người thân (bố mẹ, vợ/chồng, con cái) với mức chiết khấu 30% so với giá thị trường qua phòng Nhân sự.
+
+[DOC_ID: policy_it_hardware]
+Thiết bị làm việc (Laptop, Màn hình phụ) được cấp phát cho nhân viên để phục vụ mục đích công việc. Nhân viên có trách nhiệm bảo quản và không được tự ý cài đặt các phần mềm không có bản quyền hoặc phần mềm bị cấm trong danh mục của IT. Định kỳ mỗi 3 năm, thiết bị làm việc sẽ được IT thu hồi để nâng cấp hoặc thay thế mới. Nếu thiết bị hỏng hóc do lỗi người dùng, chi phí sửa chữa có thể được khấu trừ vào lương sau khi có biên bản xác nhận của IT và HR.
